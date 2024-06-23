@@ -3,7 +3,7 @@
 **Devops Engineer**
 
 - 🌍 I'm from Egypt
-- 🌱 Providing assistance with I**Linux, Kubernetes, Ansible, Jenkins**
+- 🌱 Providing assistance with **Linux, cloud, Kubernetes, Ansible, Jenkins**
 - ❓ Ask me about anything, I am happy to help 😊
 - 🚀 I try to: Go beyond and push the bounds
 - 🎉 Fun fact: I love connecting with different people 👀
