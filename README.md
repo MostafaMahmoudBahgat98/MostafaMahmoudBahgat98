@@ -13,14 +13,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafamahmoudbahgat)](https://www.linkedin.com/in/mostafamahmoudbahgat)
 
 ### Infrastructure and DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![kubernetes-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/6cfa6bac-aa40-4627-9ae2-0833acdcc1ea)
+![linux-original](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/82bb8f96-408d-437b-adf9-e86a0bd3e70c)
+![microsoft-azure7662](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/4d09047f-3c4a-4bf2-8f6e-0760b633e4a0)
+![github-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/286ca1d3-3733-47ab-8b81-7b4fd8c9c577)
+![git-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/e381e271-d062-45ac-84f9-4bdff9568e12)
+![terraform-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/73c63eb8-23f0-456c-a719-cef68679acdf)
+![docker-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/ab6bbb41-b430-4105-bb16-92d024140111)
+![Ansible_logo svg](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/d6603468-3ae0-4bcd-a3ca-235962a304f0)
+![jenkins-logo-11609365847mufysaivph](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/3460a1b2-9d6a-432b-bcfc-762e52ff01f3)
+![vcenter](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/c938fdd6-d51d-4085-9eb1-fe8311ae5946)
+
 
 ### Popular repositories
 - [DevOps-in-Arabic](https://github.com/MostafaMahmoudBahgat98/DevOps-in-Arabic)
