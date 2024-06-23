@@ -15,7 +15,7 @@
 ### Infrastructure and DevOps
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/6cfa6bac-aa40-4627-9ae2-0833acdcc1ea" alt="kubernetes" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/82bb8f96-408d-437b-adf9-e86a0bd3e70c" alt="linux" width="60" height="60">
-<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/03c46a80-610c-47e4-8870-87f55f791f14" alt="azure" width="60" height="60">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/03c46a80-610c-47e4-8870-87f55f791f14" alt="azure" width="80" height="80">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/286ca1d3-3733-47ab-8b81-7b4fd8c9c577" alt="github" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/e381e271-d062-45ac-84f9-4bdff9568e12" alt="git" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/73c63eb8-23f0-456c-a719-cef68679acdf" alt="terraform" width="60" height="60">
