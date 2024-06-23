@@ -22,7 +22,7 @@
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/ab6bbb41-b430-4105-bb16-92d024140111" alt="docker" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/d6603468-3ae0-4bcd-a3ca-235962a304f0" alt="ansible" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/9ab5891b-66a6-49a4-946d-d3cda40e5b64" alt="jenkins" width="60" height="60">
-<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/c938fdd6-d51d-4085-9eb1-fe8311ae5946" alt="vcenter" width="60" height="60">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/7ad7bc33-5982-4ba0-94cc-2af6a32c5f2c" alt="vcenter" width="60" height="60">
 
 
 ### Popular repositories
