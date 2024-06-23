@@ -13,16 +13,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mostafamahmoudbahgat)](https://www.linkedin.com/in/mostafamahmoudbahgat)
 
 ### Infrastructure and DevOps
-![kubernetes-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/6cfa6bac-aa40-4627-9ae2-0833acdcc1ea)
-![linux-original](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/82bb8f96-408d-437b-adf9-e86a0bd3e70c)
-![microsoft-azure7662](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/4d09047f-3c4a-4bf2-8f6e-0760b633e4a0)
-![github-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/286ca1d3-3733-47ab-8b81-7b4fd8c9c577)
-![git-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/e381e271-d062-45ac-84f9-4bdff9568e12)
-![terraform-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/73c63eb8-23f0-456c-a719-cef68679acdf)
-![docker-original-wordmark](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/ab6bbb41-b430-4105-bb16-92d024140111)
-![Ansible_logo svg](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/d6603468-3ae0-4bcd-a3ca-235962a304f0)
-![jenkins-logo-11609365847mufysaivph](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/3460a1b2-9d6a-432b-bcfc-762e52ff01f3)
-![vcenter](https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/c938fdd6-d51d-4085-9eb1-fe8311ae5946)
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/6cfa6bac-aa40-4627-9ae2-0833acdcc1ea" alt="kubernetes" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/82bb8f96-408d-437b-adf9-e86a0bd3e70c" alt="linux" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/4d09047f-3c4a-4bf2-8f6e-0760b633e4a0" alt="azure" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/286ca1d3-3733-47ab-8b81-7b4fd8c9c577" alt="github" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/e381e271-d062-45ac-84f9-4bdff9568e12" alt="git" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/73c63eb8-23f0-456c-a719-cef68679acdf" alt="terraform" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/ab6bbb41-b430-4105-bb16-92d024140111" alt="docker" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/d6603468-3ae0-4bcd-a3ca-235962a304f0" alt="ansible" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/3460a1b2-9d6a-432b-bcfc-762e52ff01f3" alt="jenkins" width="100" height="100">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/c938fdd6-d51d-4085-9eb1-fe8311ae5946" alt="vcenter" width="100" height="100">
 
 
 ### Popular repositories
