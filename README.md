@@ -21,7 +21,7 @@
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/73c63eb8-23f0-456c-a719-cef68679acdf" alt="terraform" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/ab6bbb41-b430-4105-bb16-92d024140111" alt="docker" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/d6603468-3ae0-4bcd-a3ca-235962a304f0" alt="ansible" width="60" height="60">
-<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/3460a1b2-9d6a-432b-bcfc-762e52ff01f3" alt="jenkins" width="60" height="60">
+<img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/b62dd158-869e-465d-8f23-f5d071c7b59a" alt="jenkins" width="60" height="60">
 <img src="https://github.com/MostafaMahmoudBahgat98/basic_project/assets/79370687/c938fdd6-d51d-4085-9eb1-fe8311ae5946" alt="vcenter" width="60" height="60">
 
 
